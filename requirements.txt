@@ -1,0 +1,6 @@
+treamlit
+scikit-learn
+nltk
+ntscraper
+pandas # Include if your notebook or app uses pandas for data handling
+numpy # Include if your notebook or app uses numpy
